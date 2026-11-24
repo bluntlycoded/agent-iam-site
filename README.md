@@ -17,7 +17,8 @@ Then open http://localhost:8765.
 - **Demo link.** Every "Book a demo" button points to `mailto:demo@example.com`. Replace that address in `index.html` with your real one.
 - **Theme.** Dark by default. The toggle in the header switches to light and remembers the choice in `localStorage`. Colours are CSS variables at the top of `styles.css`.
 - **Numbers.** The figures in the numbers band are measured on an Apple M2 with post-quantum signatures. Update them there if you re-measure.
-- **Motion.** The live authorization demo plays once when scrolled into view and can be replayed. With reduced motion turned on it shows the final result straight away.
+- **Sections.** Hero with live traffic diagram, governs strip, the problem, three questions, live authorization (three scenarios), the three platform pillars, lifecycle, delegation, before/after anatomy, attack tests, deploy, standards, measured numbers, compliance, teams, FAQ and a closing call to action.
+- **Motion.** Line-pattern backgrounds, the hero traffic diagram, the ledger and the authorization walkthrough animate only while on screen. With reduced motion turned on, everything shows its final state and nothing moves.
 
 ## Publishing
 
